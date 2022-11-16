@@ -13,3 +13,16 @@
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
+#banner {
+    display: block;
+}
+  
+ .images {
+    display: inline-block;
+    width: 2.5;
+    max-width: 2.5%;
+    margin-left:0.7%;
+    margin-right: 0.7%;
+    margin-bottom: 2.5%;
+}
